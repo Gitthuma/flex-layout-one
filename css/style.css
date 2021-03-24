@@ -6,4 +6,5 @@ a {
   text-decoration: none; /*Romoves links underlines*/
   border: 2px solid #77a6b6; /*Adds border to the links*/
   background-color: #4d7298; /*Adds background colour to links*/
+  border-radius: 0.5em; /*Adds border radius to links*/
 }
