@@ -5,4 +5,5 @@ nav ul {
 a {
   text-decoration: none; /*Romoves links underlines*/
   border: 2px solid #77a6b6; /*Adds border to the links*/
+  background-color: #4d7298; /*Adds background colour to links*/
 }
