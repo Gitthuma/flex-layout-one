@@ -1,6 +1,7 @@
 nav ul {
   list-style-type: none; /*Removes bullets*/
   display: flex; /*Adds display flex to make the links align horizontally*/
+  justify-content: space-between; /*Adds justify content of space between to give the links space in between*/
 }
 
 a {
